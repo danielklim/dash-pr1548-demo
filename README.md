@@ -1,4 +1,4 @@
-# Demo for Dash MR#1548
+# Demo for plotly/dash PR#1548
 
 ## Requirements
 
@@ -9,6 +9,8 @@
 ```bash
 docker-compose up
 ```
+
+![Test results](./screenshot.png)
 
 ## Explanation
 
